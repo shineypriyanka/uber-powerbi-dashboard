@@ -34,7 +34,7 @@ Power BI | DAX | Data Visualization | Data Modeling
 ![Geospatial](geospatial_analysis.png)
 
 ### Deep Dive
-![Deep Dive](deep_dive.png)
+![Deep Dive](demand_dive.png)
 
 ##  License
 This project is licensed under the MIT License.
